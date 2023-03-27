@@ -9,10 +9,13 @@ repo 2 -> git de 42 <br>
   
 Tendremos algo como esto: <br>
   <br>
-  2.- Vemos todos los repos remotos >>>   $ git remote -v <br>
-                                              origin	git@github.com:<RepoName> (fetch) <br>
-                                              origin	git@github.com:<RepoName>(push) <br>
-                                              origin	git@vogsphere-v2.42madrid.com:vogsphere/<RepoName para evaluacion> (push) <br>
+  2.- Vemos todos los repos remotos >>>   
+  
+  $ git remote -v <br>
+    origin	git@github.com:<RepoName> (fetch) <br>
+    origin	git@github.com:<RepoName>(push) <br>
+    origin	git@vogsphere-v2.42madrid.com:vogsphere/<RepoName para evaluacion> (push) <br>
+  <br>
   <br>
   NOTA: Nos muestra todos los repos que podemos hacer push, vemos que el nombre del repo es ORIGIN. <br>
   <br>
