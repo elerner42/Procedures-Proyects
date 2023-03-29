@@ -29,5 +29,5 @@ Requisitos para Configurar un servidor DEBIAN:
   * Ver servicios que puedan aportar mejoras a la parte Obligatoria. Ej: DNS, Sesiones de Usuarios,...etc.
   
 </pre>
-
-## Descargar Debian <a name="debian"><a>
+<a name="debian"></a>
+## Descargar Debian
