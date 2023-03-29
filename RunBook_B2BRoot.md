@@ -3,7 +3,7 @@
 <strong>Este documento con los pasos para un ejercicio de Administracion de Sistemas</strong>
 </pre>
 <pre>
-<strong><h3> 🚔 🚨 ¡Parte Obligatoria!  🚨b🚓</h3></strong>
+<strong><h3> 🚔 🚨 ¡Parte Obligatoria!  🚨🚓</h3></strong>
 Requisitos para Configurar un servidor DEBIAN:
 
   * Prohibido configurar un servidor con interface grafica.
