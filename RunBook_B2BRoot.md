@@ -7,7 +7,7 @@
 Requisitos para Configurar un servidor DEBIAN:
 
   * Prohibido configurar un servidor con interface grafica.
-  * Version Estable de Debian :  https://www.debian.org/download
+  * <a href="debian">Version Estable de Debian</a>
   * Crear dos particiones cifradas usando LVM.
   * Saber la diferencia de aptitude y apt.
   * Entenderque es SELinux y AppArmor.
@@ -29,3 +29,5 @@ Requisitos para Configurar un servidor DEBIAN:
   * Ver servicios que puedan aportar mejoras a la parte Obligatoria. Ej: DNS, Sesiones de Usuarios,...etc.
   
 </pre>
+
+## Descargar Debian <a name="debian"><a>
