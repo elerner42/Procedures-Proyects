@@ -7,7 +7,7 @@
 Requisitos para Configurar un servidor DEBIAN:
 
   * Prohibido configurar un servidor con interface grafica.
-  * <a href="debian">Version Estable de Debian</a>
+  * <a href="#debian">Descargar la Version Estable de Debian y VirtualBox</a>
   * Crear dos particiones cifradas usando LVM.
   * Saber la diferencia de aptitude y apt.
   * Entenderque es SELinux y AppArmor.
@@ -30,4 +30,29 @@ Requisitos para Configurar un servidor DEBIAN:
   
 </pre>
 <a name="debian"></a>
-## Descargar Debian
+## Descargar Debian and VirtualBox
+
+>* Accedemos al sitio para descargar la imagen ISO de DEBIAN,<strong> -> La Version Estable!</strong>.</br>
+>
+>[![Debian](https://img.shields.io/badge/Descargar+-yellow?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)](https://www.debian.org/download)</br>
+>
+>* Descargamos la ultima version estable de VirtualBox.</br>
+>
+>[![VirtualBox](https://img.shields.io/badge/Descargar+-blue?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)](https://www.virtualbox.org/wiki/Downloads)</br>
+>
+>### Instalamos VirtualBox y seguimos los siguientes pasos:
+> #### Ejecutamos VirtualBox y Creamos una nueva maquina virtual de la siguiente manera:
+> ![](./Images/MVnueva.png) 
+>       
+> #### Configuramos la Memoria RAM.
+> ![](./Images/SetMemory.png)
+> 
+> #### Configuramos el Disco Duro.
+> ![](./Images/sizeHDD.png)
+> 
+> #### Terminaños y nos muestra un resumen de lo que hicimos.
+> ![](./Images/ResumenConfig.png)
+> 
+> #### Para iniciar la Instalacion primeros verificamos si la imagen ISO DEBIAN esta seleccionada en Configuracion:
+> ![](./Images/confBootOS.png)
+> .....
