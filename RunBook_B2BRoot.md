@@ -10,7 +10,7 @@ Requisitos para Configurar un servidor DEBIAN:
   * <a href="#debian">Descargar la Version Estable de Debian y VirtualBox</a>
   * Crear dos particiones cifradas usando LVM.
   * Saber la diferencia de aptitude y apt.
-  * Entenderque es SELinux y AppArmor.
+  * Entender que es SELinux y AppArmor.
   * Configurar Servicio SSH con el puerto: 4242, no puede conectarse como ROOT.
   * Firewall UFM con DNF, debe tener solo el puerto 4242 abierto, inicio automático al iniciar el server.
   * El hostname sera: <login42>+42 Ej: elerner42.
