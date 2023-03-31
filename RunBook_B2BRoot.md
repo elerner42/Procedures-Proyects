@@ -12,6 +12,7 @@ Requisitos para Configurar un servidor DEBIAN:
   * Saber la diferencia de aptitude y apt.
   * Entender que es SELinux y AppArmor.
   * Configurar Servicio SSH con el puerto: 4242, no puede conectarse como ROOT.
+  
   * Firewall UFM con DNF, debe tener solo el puerto 4242 abierto, inicio automático al iniciar el server.
   * El hostname sera: <login42>+42 Ej: elerner42.
   * Implementar una politica de Contraseña fuerte (ver pagina 6, al final para las politicas de contraseña de los grupos).
