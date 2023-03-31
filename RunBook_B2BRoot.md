@@ -6,9 +6,9 @@
 <strong><h3> 🚔 🚨 ¡Parte Obligatoria!  🚨🚓</h3></strong>
 Requisitos para Configurar un servidor DEBIAN:
 
-  * Prohibido configurar un servidor con interface grafica.
-  * <a href="#debian">Descargar la Version Estable de Debian y VirtualBox</a>
-  * Crear dos particiones cifradas usando LVM.
+  * ☑️ Prohibido configurar un servidor con interface grafica.
+  * ☑️ <a href="#debian">Descargar la Version Estable de Debian y VirtualBox</a>
+  * ☑️ Crear dos particiones "cifradas" usando LVM.
   * Saber la diferencia de aptitude y apt.
   * Entender que es SELinux y AppArmor.
   * Configurar Servicio SSH con el puerto: 4242, no puede conectarse como ROOT.
@@ -50,9 +50,10 @@ Requisitos para Configurar un servidor DEBIAN:
 > #### Configuramos el Disco Duro.
 > ![](./Images/sizeHDD.png)
 > 
-> #### Terminaños y nos muestra un resumen de lo que hicimos.
+> #### Al terminar nos muestra un resumen de lo que hicimos.
 > ![](./Images/ResumenConfig.png)
 > 
-> #### Para iniciar la Instalacion primeros verificamos si la imagen ISO DEBIAN esta seleccionada en Configuracion:
+> #### Para iniciar la Instalacion primeros verificamos si la imagen ISO DEBIAN esta seleccionada en la configuracion:
 > ![](./Images/confBootOS.png)
-> .....
+
+
