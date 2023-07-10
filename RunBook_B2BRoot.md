@@ -1,6 +1,6 @@
 # 🚀 Born2beRoot Proyect - System Administration 👨‍💻
 <pre>
-<strong>Este documento con los pasos para un ejercicio de Administracion de Sistemas</strong>
+<strong>Ejercicios de Administracion de Sistemas</strong>
 </pre>
 <pre>
 <strong><h3> 🚔 🚨 ¡Parte Obligatoria!  🚨🚓</h3></strong>
